@@ -1,4 +1,6 @@
-### Make a GURPS character for a vampire hunter based on the personality of Quint from Jaws.
+### Make a Cybperpunk Red character sheet for a Media archetype working for the corpos
+
+
 
 ---
 
