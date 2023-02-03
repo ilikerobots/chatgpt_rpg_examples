@@ -1,40 +1,34 @@
 ### Make a GURPS character for a vampire hunter based on the personality of Quint from Jaws.
+
 ---
 
- * ST: 14 (100 points)
- * DX: 12 (40 points)
- * IQ: 10 (0 points)
- * HT: 12 (20 points)
+Here is a sample Cyberpunk Red character sheet for a Media archetype working for the corporations:
 
-Advantages:
- * Combat Reflexes (15 points)
- * High Pain Threshold (10 points)
- * Peripheral Vision (5 points)
- * Strong Willed (5 points)
- * Unusual Background (Vampire Hunter, 10 points)
+Name: Jenny Streams
 
-Disadvantages:
- * Bad Temper (-10 points)
- * Impulsive (-10 points)
- * Overconfidence (-5 points)
- * Quirk (Tells long, rambling stories, -1 point)
- * Greed (-10 points)
+Archetype: Media
+
+Affiliation: Corporation
+
+Attributes:
+ * Intelligence: 4
+ * Reflexes: 3
+ * Cool: 3
+ * Technical Ability: 2
+ * Luck: 2
 
 Skills:
- * Brawling (DX) at 14-
- * Fishing (IQ) at 10-
- * Guns (Pistol) (DX) at 12-
- * Survival (Wilderness) (IQ) at 10-
- * Tactics (IQ) at 10-
- * Tracking (IQ) at 10-
- * Weapon Master (Crossbow) (DX) at 12-
+ * Negotiation: 3
+ * Persuasion: 4
+ * Media Production: 5
+ * Research: 4
+ * Hacking: 2
 
 Equipment:
- * Crossbow
- * Pistol
- * Hunting Knife
- * Fishing Equipment
+ * Portable Media Studio: High-quality production equipment, including cameras, microphones, and editing software
+ * Datajack: Neural implant that allows direct connection to the Net
+ * Cyberdeck: Portable computer used for hacking and data access
 
-Total cost: 150 points
+Background: Jenny grew up in the streets, always hustling and using her charm and wit to get by. She eventually caught the eye of a corporation, who offered her a job in their media department. Jenny jumped at the chance to improve her circumstances and has since climbed the ranks, producing high-quality content that helps to shape public opinion in favor of her employer. Despite her loyalty to the corporation, Jenny always keeps one eye open for opportunities to further her own interests and increase her power and influence.
 
-Note: This is just a basic starting point and you can adjust and add more skills, advantages, disadvantages, and equipment to better fit your vision of the character.
+Personality: Jenny is charming, confident, and always ready with a smile and a quip. She's fiercely intelligent and knows how to use her media skills to manipulate public opinion. Behind the scenes, she can be ruthless and cunning, always looking for ways to advance her own interests.

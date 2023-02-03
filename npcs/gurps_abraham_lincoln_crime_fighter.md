@@ -1,33 +1,36 @@
-### Make a Cybperpunk Red character sheet for a Media archetype working for the corpos.
+### Make a 125 point GURPS character based on crime-fighting Abraham Lincoln.
+
 ---
 
-Here is a sample Cyberpunk Red character sheet for a Media archetype working for the corporations:
-
-Name: Jenny Streams
-
-Archetype: Media
-
-Affiliation: Corporation
+Here's a possible build for a 125-point Abraham Lincoln, crime-fighter, in the GURPS system:
 
 Attributes:
- * Intelligence: 4
- * Reflexes: 3
- * Cool: 3
- * Technical Ability: 2
- * Luck: 2
+ * ST 10 [0 pts]
+ * DX 12 [40 pts]
+ * IQ 14 [60 pts]
+ * HT 12 [20 pts]
+
+Advantages:
+ * Leadership [15 pts]
+ * Honest Face [5 pts]
+ * Legal Enforcement Powers [20 pts]
+ * Politics [10 pts]
 
 Skills:
- * Negotiation: 3
- * Persuasion: 4
- * Media Production: 5
- * Research: 4
- * Hacking: 2
+
+ * Debate [4 pts]
+ * Detective [8 pts]
+ * History [4 pts]
+ * Law [8 pts]
+ * Weapon (Unarmed Combat) [2 pts]
 
 Equipment:
- * Portable Media Studio: High-quality production equipment, including cameras, microphones, and editing software
- * Datajack: Neural implant that allows direct connection to the Net
- * Cyberdeck: Portable computer used for hacking and data access
+ * Holster [2 pts]
+ * Brass Knuckles [1 pt]
+ * Pocket Watch [1 pt]
 
-Background: Jenny grew up in the streets, always hustling and using her charm and wit to get by. She eventually caught the eye of a corporation, who offered her a job in their media department. Jenny jumped at the chance to improve her circumstances and has since climbed the ranks, producing high-quality content that helps to shape public opinion in favor of her employer. Despite her loyalty to the corporation, Jenny always keeps one eye open for opportunities to further her own interests and increase her power and influence.
+Total: 125 pts
 
-Personality: Jenny is charming, confident, and always ready with a smile and a quip. She's fiercely intelligent and knows how to use her media skills to manipulate public opinion. Behind the scenes, she can be ruthless and cunning, always looking for ways to advance her own interests.
+In this build, Abraham Lincoln is portrayed as a charismatic leader with a strong sense of justice and a keen intellect. His Leadership advantage represents his ability to inspire and command others, while his Honest Face and Politics skills reflect his political savvy. Legal Enforcement Powers represents his authority as a crime-fighter, and he also has a background in law and detective work.
+
+Unarmed combat and brass knuckles reflect his willingness to physically defend himself and others, while his pocket watch symbolizes his punctuality and attention to detail. This build assumes standard GURPS point values and can be adjusted to fit the specific needs of your campaign and playstyle.
