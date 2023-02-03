@@ -1,4 +1,5 @@
-##### Make a Cybperpunk Red character sheet for a Media archetype working for the corpos.
+### Make a Cybperpunk Red character sheet for a Media archetype working for the corpos.
+---
 
 Here is a sample Cyberpunk Red character sheet for a Media archetype working for the corporations:
 

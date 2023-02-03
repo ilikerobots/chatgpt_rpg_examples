@@ -1,4 +1,5 @@
-##### Make a character sheet based on a 1910s Hungarian poet interested in the occult for Chaosium's Call of Cthulhu.
+### Make a character sheet based on a 1910s Hungarian poet interested in the occult for Chaosium's Call of Cthulhu.
+--- 
 
 Name: Andor Ferenc
 

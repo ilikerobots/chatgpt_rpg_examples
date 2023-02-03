@@ -1,4 +1,5 @@
-##### Make a GURPS character for a vampire hunter based on the personality of Quint from Jaws.
+### Make a GURPS character for a vampire hunter based on the personality of Quint from Jaws.
+---
 
  * ST: 14 (100 points)
  * DX: 12 (40 points)

@@ -1,4 +1,5 @@
-##### Make a character sheet for a colonial marine with a dark secret for use with Free League's Alien The Roleplaying Game.
+### Make a character sheet for a colonial marine with a dark secret for use with Free League's Alien The Roleplaying Game.
+---
 
 Name: John Doe
 
